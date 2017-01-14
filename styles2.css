@@ -1,5 +1,11 @@
-section {
-  float:left; text-align:left;
+#navphotos {
+  width: 400 px;
+  height: 900 px;
+  position: absolute;
+  left: 20 px;
+  top: 20 px;
+  background-color: purple;
+  display: flex;
 }
 aside {
   float:right; text-align:right;
